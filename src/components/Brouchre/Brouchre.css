@@ -1,5 +1,43 @@
 .brouchre-container{
     height: 96vh;
     width: 1150px;
-    border: 2px solid;
+    background-color: #7843db7d;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.brouchre-container form{
+    height: 500px;
+    width: 900px;
+    border-radius: 10px;
+    background-color: #7743DB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    color: white;
+}
+
+.brouchre-container form p{
+    margin-left: 60px;
+    font-size: 30px;
+    line-height: 50px;
+    width: 600px;
+    margin-bottom: 30px;
+}
+
+.brouchre-container form label , .brouchre-container form input{
+    margin-left: 60px;
+    font-size: 24px;
+    line-height: 40px;
+    width: 600px;
+    border: none;
+    outline: none;
+}
+
+.brouchre-container form input{
+    color: black;
+    padding: 4px;
 }

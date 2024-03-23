@@ -1,9 +1,11 @@
 import React from 'react'
 import './sidenav.css'
+import TemplatesList from './TemplatesList'
 const SideNav = () => {
   return (
     <div className='sidenav'>
-      <p>hello side nav</p>
+      <button className='profilebtn'>My Profile</button>
+      <TemplatesList />
     </div>
   )
 }
