@@ -6,6 +6,7 @@ const Brouchre = () => {
        <div className='brouchre-container'>
             <form>
               <label>enter brouchere</label>
+              <input type='text' />
             </form>
        </div> 
     </>
