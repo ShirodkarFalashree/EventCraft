@@ -5,16 +5,7 @@ const Brouchre = () => {
     <>
        <div className='brouchre-container'>
             <form>
-              <label>enter brouchere</label>
-              <input type='text' />
-              <label>enter brouchere</label>
-              <input type='text' />
-              <label>enter brouchere</label>
-              <input type='text' />
-              <label>enter brouchere</label>
-              <input type='text' />
-              <label>enter brouchere</label>
-              <input type='text' />
+              ello brouchre
             </form>
        </div> 
     </>
