@@ -7,6 +7,14 @@ const Brouchre = () => {
             <form>
               <label>enter brouchere</label>
               <input type='text' />
+              <label>enter brouchere</label>
+              <input type='text' />
+              <label>enter brouchere</label>
+              <input type='text' />
+              <label>enter brouchere</label>
+              <input type='text' />
+              <label>enter brouchere</label>
+              <input type='text' />
             </form>
        </div> 
     </>
